@@ -6,7 +6,7 @@ crawlertitle: "Suki's Blog Post"
 summary: "Resources"
 date:   2017-05-20 20:09:47 +0700
 categories: posts
-tags: ['machine-learning']
+tags: ['data-science']
 author: suki lau
 ---
 Here is the list of 10+ free data science resources I've found very useful in my data science journey!
