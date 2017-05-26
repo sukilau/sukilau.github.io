@@ -5,7 +5,7 @@ crawlertitle: "Suki's Blog Post"
 summary: "Tuning Hyperparameter for Deep Neural Nets"
 date:   2017-05-26 23:09:47 +0700
 categories: posts
-tags: 'Deep Learning'
+tags: 'deep-learning'
 author: suki lau
 ---
 hello there!
