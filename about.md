@@ -4,7 +4,7 @@ layout: page
 title: "About"
 crawlertitle: "About"
 permalink: /about/
-summary: "Hi, I'm Suki."
+summary: "I like telling stories with data and graphics."
 active: about
 ---
 
