@@ -4,16 +4,23 @@ layout: page
 title: "About"
 crawlertitle: "About"
 permalink: /about/
-summary: "About Suki Lau"
+summary: "Hi, I'm Suki."
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Hi, I'm Suki.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I like telling stories with data and graphics.  I began my journey into data science few months ago when I first dived into  my first Kaggle problem.  Currently, I'm learning deep neural nets and exploring the potentials of data visualization with D3 and Processing, hoping to create things for humans with math, art and code. 
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+Previously, I was a Government Statistician in Hong Kong and I received both my Bachelors and Masters Degree on Mathematics at the Chinese University of Hong Kong.
+
+Find me on ->
+[email](lausuiki@gmail.com)
+[github](https://github.com/sukilau)
+[linkedin](https://www.linkedin.com/in/sukilau/)
+[twitter](https://twitter.com/lskhere)
+
+
+Fun fact about me ->
+I'm also an amateur street photographer! 
+[tumblr](http://lskhere.tumblr.com/)
