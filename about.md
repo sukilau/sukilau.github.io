@@ -15,12 +15,12 @@ I like telling stories with data and graphics.  I began my journey into data sci
 Previously, I was a Government Statistician in Hong Kong and I received both my Bachelors and Masters Degree on Mathematics at the Chinese University of Hong Kong.
 
 <hr>
-Find me on<br>
+Find me on : <br>
 [email](mailto:lausuiki@gmail.com)<br>
 [github](https://github.com/sukilau)<br>
 [linkedin](https://www.linkedin.com/in/sukilau/)<br>
 [twitter](https://twitter.com/lskhere)
 
-Fun fact about me<br>
+Fun fact about me : <br>
 I'm also an amateur street photographer! <br>
 [tumblr](http://lskhere.tumblr.com/)
