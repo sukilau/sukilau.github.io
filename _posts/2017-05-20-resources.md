@@ -23,7 +23,7 @@ Here is the list of 10+ free data science resources I've found very useful in my
 
 * [Neural Networks for Machine Learning (MOOC)](https://www.coursera.org/learn/neural-networks) teaches basic algorithms and practical tricks to work with neural networks in machine learning. It is suitbale for intermediate learners with experience in Python. 
 
-* [Stanford CS Class on Convolutional Neural Networks for Visual Recognition (Course Notes)](http://cs231n.github.io/) is a course focus on computer visison and much of the materials are drawn from the ImageNet Challenge. It teaches how to set up the problem of image recognition, learning algorithms, practical engineering tricks for training and fine-tuning the networks, visualization. I found the course notes particular useful as it provides links to useful academic papers. 
+* [Stanford CS Class on Convolutional Neural Networks for Visual Recognition (Course Notes)](http://cs231n.github.io/) is a course focus on computer visison and much of the materials are drawn from the ImageNet Challenge. It teaches how to set up the problem of image recognition, learning algorithms, practical engineering tricks for training and fine-tuning the networks, visualization. I found the course notes particularly useful as it provides links to useful academic papers. 
 
 
 Apart from courses, books and papers, there are many good data science blogs where we could learn tips and tricks and best practices in the industry. Here are some of the blogs I've found fun and easy to read, and also quick to follow from scratch.  
