@@ -34,3 +34,5 @@ Apart from courses, books and papers, there are many good data science blogs whe
 * [Simply Statistics](https://simplystatistics.org/)
 * [Kaggle's Blog](http://blog.kaggle.com/)
 * [Quora Data Science](https://www.quora.com/topic/Data-Science)
+
+Happy learning!
