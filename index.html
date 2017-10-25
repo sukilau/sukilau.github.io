@@ -1,14 +1,75 @@
----
-bg: "rails.jpg"
-layout: default
-crawlertitle: "SUKI LAU"
-title: "SUKI LAU"
-summary: "Data Science Blog"
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Data Science</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--Bootstrap-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <!--css file-->
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <!--font-->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+</head>
+<body>
 
-{% for post in site.posts limit: 5 %}
-  <article class="index-page">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
-  </article>
-{% endfor %}
+<!-- Navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <ul class="navbar-brand"><a href="index.html">data science</a></ul>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#ml">machine learning</a></li>
+        <li><a href="#viz">data visualization</a></li>
+        <li><a href="#resources">resources</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!--content-->
+  <div class="container-fluid main">
+    <div class="section" id="ml">
+      <h1>Machine Learning</h1>
+      <li><a href="https://www.gitshowcase.com/sukilau">Machine Learning Projects</a></li>
+      <hr>
+    </div>
+
+    <div class="section" id="viz">
+      <h1>Data Visualization</h1>
+      <li><a href="http://bl.ocks.org/sukilau/bbec06ee0447ac9dc1d56ca9f9fde778">Animated Bubble Map in D3.js</a></li>
+      <hr>
+    </div>
+
+    <div class="section" id="resources">
+      <h1>Resources</h1>
+      <h3>MOOC</h3>
+      <li><a href="https://www.coursera.org/learn/machine-learning">Andrew Ng's Machine Learning Course</a></li>
+      <li><a href="https://www.coursera.org/learn/python-machine-learning">Applied Machine Learning in Python</a></li>
+      <li><a href="https://www.coursera.org/specializations/jhu-data-science">Data Science in R</a></li>
+      <li><a href="https://www.coursera.org/learn/neural-networks">Neural Networks for Machine Learning</a></li>
+      <h3>Book</h3>
+      <li><a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf">The Elements of Statistical Learning</a></li>
+      <li><a href="http://www.deeplearningbook.org/">Deep Learning</a></li>
+      <h3>Blog</h3>
+      <li><a href="http://machinelearningmastery.com/">Machine Learning Mastery</a></li>
+      <li><a href="https://fivethirtyeight.com/">Nate Silver's FiveThirtyEight</a></li>
+      <li><a href="https://simplystatistics.org/">Simply Statistics</a></li>
+      <li><a href="http://blog.kaggle.com/">Kaggle's Blog</a></li>
+      <li><a href="https://www.quora.com/topic/Data-Science">Quora Data Science</a></li>
+      <li><a href="http://blog.echen.me/">Edwin Chen's Blog</a></li>
+    </div>
+  </div>
+  <footer></footer>
+</body>
+</html>
+

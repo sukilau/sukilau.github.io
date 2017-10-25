@@ -1,0 +1,50 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  background-color: #ffffff;
+}
+.navbar {
+  padding: 2% 15%;
+  border: 0;
+  border-radius: 0;
+  font-size: 12px;
+  letter-spacing: 1px;
+  opacity: 0.95;
+  background-color: #ffffff;
+}
+.navbar-brand a {
+  color:#1589FF !important;
+}
+.navbar-brand a:hover {
+  color:#FF8A14 !important;
+}
+.navbar-nav  li a:hover {
+  color:#FF8A14 !important;
+}
+.nav-item{
+  margin:50px;
+}
+h1{
+  color:#1589FF;
+}
+h3{
+  color:#808080;
+}
+a, a:link, a:visited  {
+  text-decoration: none;
+  color: #808080;
+/*  color:#808080;*/
+}
+a:hover, a:active {
+  text-decoration: none;
+  color: #FF8A14;
+}
+.main {
+  max-width:70%;
+}
+.section {
+  padding-top : 100px;
+}
+footer{
+  height:100px;
+}
